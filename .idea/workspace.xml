@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64eea097-9dac-4742-8f1f-20483f2d8376" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ODIN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum_1/hw_1.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum_1/practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum_2/цикл и условия.py" afterDir="false" />
-    </list>
+    <list default="true" id="64eea097-9dac-4742-8f1f-20483f2d8376" name="Changes" comment="1-st commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,7 +158,20 @@
       <option name="presentableId" value="Default" />
       <updated>1728907731977</updated>
     </task>
+    <task id="LOCAL-00001" summary="1-st commit">
+      <option name="closed" value="true" />
+      <created>1729082668972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729082668972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1-st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-st commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
