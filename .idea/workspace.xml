@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64eea097-9dac-4742-8f1f-20483f2d8376" name="Changes" comment="2024_10_16">
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3_7 func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicum3/practice3_9.py" afterDir="false" />
+    <list default="true" id="64eea097-9dac-4742-8f1f-20483f2d8376" name="Changes" comment="2024_10_17 практика 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +47,22 @@
     "Python.practice3_7 func.executor": "Run",
     "Python.practice3_8.executor": "Run",
     "Python.practice3_9.executor": "Run",
+    "Python.practice4_1.executor": "Run",
+    "Python.practice4_3.executor": "Run",
+    "Python.practice4_3a.executor": "Run",
+    "Python.practice4_4.executor": "Run",
+    "Python.practice4_4a.executor": "Run",
+    "Python.practice4_5.executor": "Run",
+    "Python.practice4_6.executor": "Run",
+    "Python.practice5_2.executor": "Run",
+    "Python.practice5_3.executor": "Run",
+    "Python.practice5_4.executor": "Run",
+    "Python.practice5_4a.executor": "Run",
     "Python.цикл и условия.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -69,7 +70,7 @@
       <recent name="D:\ODIN_bla\pythonProject\practicum_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.practice3_9">
+  <component name="RunManager" selected="Python.practice5_4">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ODIN" />
       <option name="ENV_FILES" value="" />
@@ -92,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice3_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice4_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ODIN" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practicum3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practicum4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practicum3/practice3_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practicum4/practice4_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice3_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice5_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ODIN" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practicum3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practicum5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practicum3/practice3_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practicum5/practice5_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice3_7 func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice5_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ODIN" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practicum3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practicum5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practicum3/practice3_7 func.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practicum5/practice5_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice3_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice5_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ODIN" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practicum3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practicum5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practicum3/practice3_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practicum5/practice5_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice3_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice5_4a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ODIN" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practicum3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice5a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practicum3/practice3_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice5a/practice5_4a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.practice3_9" />
-        <item itemvalue="Python.practice3_8" />
-        <item itemvalue="Python.practice3_7 func" />
-        <item itemvalue="Python.practice3_6" />
-        <item itemvalue="Python.practice3_5" />
+        <item itemvalue="Python.practice5_4" />
+        <item itemvalue="Python.practice5_4a" />
+        <item itemvalue="Python.practice5_3" />
+        <item itemvalue="Python.practice5_2" />
+        <item itemvalue="Python.practice4_6" />
       </list>
     </recent_temporary>
   </component>
@@ -252,14 +253,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729088938079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2024_10_17 практика 3">
+      <option name="closed" value="true" />
+      <created>1729185316554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729185316554</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-st commit" />
     <MESSAGE value="2-nd commit" />
     <MESSAGE value="2024_10_16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024_10_16" />
+    <MESSAGE value="2024_10_17 практика 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024_10_17 практика 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
