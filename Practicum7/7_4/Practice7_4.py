@@ -1,14 +1,19 @@
 import json
 
+
 def load_cities():
     with open('russia.json', 'r', encoding='utf-8') as file:
         return json.loads(file.read())
 
+
 def display_intro():
-    print("Добро пожаловать в игру города. Пиши в одном сообщении й город. Если хочешь закончить, то напиши стоп. 1й город - Москва")
+    print("Добро пожаловать в игру =Города=. Пиши в одном сообщении й город. Если хочешь закончить, то напиши стоп. "
+          "1й город - Москва. Тебе на А")
+
 
 def first_letter(user_input, letter):
     return user_input.lower()[0] == letter
+
 
 def check_city(file, user_input):
     for city in file:
@@ -16,11 +21,13 @@ def check_city(file, user_input):
             return city
     return None
 
+
 def remove_city(file, city_to_remove):
     for i in range(len(file)):
         if file[i]['city'].lower() == city_to_remove.lower():
             del file[i]
             return
+
 
 def last_letter(city_name):
     last_char = city_name[-1].lower()
@@ -28,19 +35,22 @@ def last_letter(city_name):
         return city_name[-2].lower()
     return last_char
 
+
 def find_next_city(file, letter):
     for city in file:
         if city['city'].lower().startswith(letter):
             return city
     return None
 
+
 def main():
     file = load_cities()
     display_intro()
-    letter = 'a'
+    letter = 'а'
 
     while True:
-        user_input = input("ВВедите город\n")
+        # user_input = input("ВВедите город\n")
+        user_input = input("\n")
 
         if user_input.lower() == 'стоп':
             print("Игра окончена")
@@ -63,11 +73,12 @@ def main():
         next_city = find_next_city(file, letter)
 
         if next_city:
-            print((next_city['city']))
+            print(next_city['city'])
             remove_city(file, next_city['city'])
             letter = last_letter(next_city['city'])
         else:
             print("Ты победил")
             return
+
 
 main()
